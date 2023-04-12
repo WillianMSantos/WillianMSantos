@@ -1,6 +1,6 @@
 # Salve!! Willian Marreiros
 
-- 🖥💻 Desenvolvedor Back-End(estagiário) - Sicoob 
+- 🖥💻 Desenvolvedor Back-End
 - 💻 Graduando em Ciência da Computação - IESB (DF)
 - 📍 Brasília - DF
 - 🎮 Ak cruzada no CS.
