@@ -3,7 +3,6 @@
 - 🖥💻 Desenvolvedor Back-End
 - 💻 Graduando em Ciência da Computação - IESB (DF)
 - 📍 Brasília - DF
-- 🎮 Ak cruzada no CS.
 
  "Repetição com correção até exaustão, leva a perfeição" </br></br>
  
